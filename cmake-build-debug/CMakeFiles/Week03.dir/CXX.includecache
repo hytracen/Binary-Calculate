@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Program Files (x86)/Project/GameProgramProject/Week03/BinaryTree.h
+
+D:/Program Files (x86)/Project/GameProgramProject/Week03/main.cpp
+main.h
+D:/Program Files (x86)/Project/GameProgramProject/Week03/main.h
+
+D:/Program Files (x86)/Project/GameProgramProject/Week03/main.h
+BinaryTree.h
+D:/Program Files (x86)/Project/GameProgramProject/Week03/BinaryTree.h
+bits/stdc++.h
+-
+
